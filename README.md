@@ -1041,7 +1041,7 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
-![image](https://github.com/vijaygowdu/OS-Linux-commands-Shell-script/assets/147473788/9b6c55c4-758a-4dde-a0dc-557a8eb33610)
+![WhatsApp Image 2024-02-26 at 13 37 21_a8e7b5b7](https://github.com/vijaygowdu/OS-Linux-commands-Shell-script/assets/147473788/7b40d124-a967-4b67-a022-98df4cafb565)
 
  cat exread1.sh
 ```bash
