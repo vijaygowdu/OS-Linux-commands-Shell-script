@@ -1,4 +1,4 @@
-# OS-Linux-commands-Shell-scripting
+# Ex01:OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
